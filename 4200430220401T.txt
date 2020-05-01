@@ -9,7 +9,7 @@ Where is the moment when we needed the most
 You kick up the leaves and the magic is lost
 你无奈地踢起了地上的落叶 所有的魔力都消失了
 
-[00;44.00]
+[00:44.00]
 They tell me your blue skies faded to grey
 他们告诉我 你蔚蓝的天空渐渐变灰
 
@@ -89,7 +89,7 @@ You had a bad day
 Well you need a blue sky holiday
 朋友 你只需要一个充满蓝天的假期
 
-[02.06.25]
+[02:06.25]
 The point is they laugh at what you say
 不用去管身边的人如何嘲笑
 
@@ -130,7 +130,8 @@ The camera don't lie
 照相机拍出你的沮丧
 
 [02:31.97]
-You're coming back down and you really don't mind但这只是短暂的不顺心你根本也不用在乎它
+You're coming back down and you really don't mind
+但这只是短暂的不顺心你根本也不用在乎它
 
 [02:35.07]
 You had a bad day
