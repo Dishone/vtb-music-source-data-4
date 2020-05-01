@@ -1,6 +1,13 @@
 {
     "data": [
         {     
+            "id": "42005011408",      
+            "name": "深海少女",       
+            "vocal": ["AZKi"],      
+            "img": "42005011408.jpg",      
+            "date": "2020–05-01"  
+        },
+        {     
             "id": "42005011356",      
             "name": "Only my railgun",       
             "vocal": ["AZKi"],      
